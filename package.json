@@ -1,6 +1,6 @@
 {
     "name": "@hamworks/upload-settings",
-    "version": "0.0.3",
+    "version": "0.0.1",
     "description": "Custom field ui generator",
     "author": "Hiroshi Urabe <mail@torounit.com> (https://torounit.com)",
     "license": "GPL-2.0-or-later",
@@ -16,10 +16,8 @@
     "bugs": {
         "url": "https://github.com/team-hamworks/upload-settings/issues"
     },
-    "dependencies": {
-    },
-    "devDependencies": {
-    },
+    "dependencies": {},
+    "devDependencies": {},
     "scripts": {
         "env": "wp-env",
         "lint-php": "./vendor/bin/phpcs --standard=./.phpcs.xml.dist"
