@@ -1,0 +1,26 @@
+{
+    "name": "hamworks/upload-settings",
+    "description": "",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "HAMWORKS\\WP\\Upload_Settings\\": "inc"
+        }
+    },
+    "require-dev": {
+        "dealerdirect/phpcodesniffer-composer-installer": "*",
+        "phpcompatibility/phpcompatibility-wp": "*",
+        "squizlabs/php_codesniffer": "*",
+        "wp-coding-standards/wpcs": "*",
+        "wp-phpunit/wp-phpunit": "^5.4",
+        "phpunit/phpunit": "^7.5"
+    },
+    "scripts": {
+        "format": "phpcbf --standard=./.phpcs.xml.dist --report-summary --report-source",
+        "lint": "phpcs --standard=./.phpcs.xml.dist",
+        "phpcs": "phpcs --standard=./.phpcs.xml.dist"
+    },
+    "require": {
+        "ext-json": "*"
+    }
+}
