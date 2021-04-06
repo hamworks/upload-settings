@@ -13,6 +13,12 @@ Add upload settings.
 
 ## Description
 
+Add upload file and media setting.
+
+* Max upload file size.
+* File types allowed uploading. 
+* Max width or height.
+
 ## Changelog
 
 ### 0.0.1
