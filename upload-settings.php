@@ -3,7 +3,7 @@
  * Plugin Name: Upload Settings
  * Plugin URI: https://github.com/team-hamworks/upload-settings
  * Description: Upload Settings
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: HAMWORKS
  * Author URI: https://github.com/team-hamworks/
  * License: GPL2 or later
