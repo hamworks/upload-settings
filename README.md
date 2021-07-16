@@ -1,4 +1,4 @@
-# Advanced Posts Blocks
+# Upload Settings.
 Contributors:      Toro_Unit  
 Donate link:       https://www.paypal.me/torounit  
 Tags:              posts, blocks  
@@ -9,7 +9,7 @@ Stable tag:        0.0.2
 License:           GPLv2 or later  
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Add upload settings.
+Add upload file and media setting.
 
 ## Description
 
